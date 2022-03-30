@@ -21,4 +21,4 @@ Here is the video Demo: [Youtube video](https://www.youtube.com/watch?v=30ifzUGG
 ## other Contributors
 * Martin Mendoza
 * Kimberly Cao
-* harunm1
+* harunm
