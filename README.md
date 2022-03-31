@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- This Chrome extension keeps track of how much time is spent on different selected webpages. Each time the extension is clicked on in Chrome, it will update from the last time the popup was viewed. The popup offers 3 ways to view the data: pie chart, bar graph, and in a table. On each new day, the user has the option of clearing the data from the previous day.
+ This Chrome extension keeps track of the user’s time spent in different web pages in order to help user to manager their time more efficiently in future. Each time the extension is clicked on in Chrome it will update from the last time the popup was viewed.
 </p>
 
 <div align="center">
